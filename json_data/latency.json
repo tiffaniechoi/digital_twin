@@ -2,1265 +2,1518 @@
 	"time": "2022-12-26 00:45:41",
 	"latency_hours": 0,
 	"latency_minutes": 38,
-	"latency_seconds": 32
+	"latency_seconds": 32,
+	"latency_total_minutes": 2318
 }, {
 	"time": "2022-12-26 00:46:06",
 	"latency_hours": 0,
 	"latency_minutes": 34,
-	"latency_seconds": 45
+	"latency_seconds": 45,
+	"latency_total_minutes": 2074
 }, {
 	"time": "2022-12-26 00:46:52",
 	"latency_hours": 0,
 	"latency_minutes": 28,
-	"latency_seconds": 20
+	"latency_seconds": 20,
+	"latency_total_minutes": 1708
 }, {
 	"time": "2022-12-26 00:47:13",
 	"latency_hours": 0,
 	"latency_minutes": 23,
-	"latency_seconds": 0
+	"latency_seconds": 0,
+	"latency_total_minutes": 1403
 }, {
 	"time": "2022-12-26 00:47:56",
 	"latency_hours": 0,
 	"latency_minutes": 18,
-	"latency_seconds": 2
+	"latency_seconds": 2,
+	"latency_total_minutes": 1098
 }, {
 	"time": "2022-12-26 00:48:21",
 	"latency_hours": 0,
 	"latency_minutes": 13,
-	"latency_seconds": 15
+	"latency_seconds": 15,
+	"latency_total_minutes": 793
 }, {
 	"time": "2022-12-26 00:58:50",
 	"latency_hours": 0,
 	"latency_minutes": 17,
-	"latency_seconds": 33
+	"latency_seconds": 33,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 00:56:57",
 	"latency_hours": 0,
 	"latency_minutes": 10,
-	"latency_seconds": 1
+	"latency_seconds": 1,
+	"latency_total_minutes": 610
 }, {
 	"time": "2022-12-26 01:38:49",
 	"latency_hours": 1,
 	"latency_minutes": 14,
-	"latency_seconds": 8
+	"latency_seconds": 8,
+	"latency_total_minutes": 854
 }, {
 	"time": "2022-12-26 01:37:38",
 	"latency_hours": 1,
 	"latency_minutes": 21,
-	"latency_seconds": 16
+	"latency_seconds": 16,
+	"latency_total_minutes": 1281
 }, {
 	"time": "2022-12-26 01:38:54",
 	"latency_hours": 0,
 	"latency_minutes": 34,
-	"latency_seconds": 50
+	"latency_seconds": 50,
+	"latency_total_minutes": 2074
 }, {
 	"time": "2022-12-26 01:39:30",
 	"latency_hours": 0,
 	"latency_minutes": 30,
-	"latency_seconds": 15
+	"latency_seconds": 15,
+	"latency_total_minutes": 1830
 }, {
 	"time": "2022-12-26 01:42:11",
 	"latency_hours": 0,
 	"latency_minutes": 27,
-	"latency_seconds": 15
+	"latency_seconds": 15,
+	"latency_total_minutes": 1647
 }, {
 	"time": "2022-12-26 01:42:35",
 	"latency_hours": 0,
 	"latency_minutes": 21,
-	"latency_seconds": 28
+	"latency_seconds": 28,
+	"latency_total_minutes": 1281
 }, {
 	"time": "2022-12-26 01:43:39",
 	"latency_hours": 0,
 	"latency_minutes": 17,
-	"latency_seconds": 10
+	"latency_seconds": 10,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 01:57:54",
 	"latency_hours": 0,
 	"latency_minutes": 25,
-	"latency_seconds": 24
+	"latency_seconds": 24,
+	"latency_total_minutes": 1525
 }, {
 	"time": "2022-12-26 01:57:20",
 	"latency_hours": 0,
 	"latency_minutes": 19,
-	"latency_seconds": 9
+	"latency_seconds": 9,
+	"latency_total_minutes": 1159
 }, {
 	"time": "2022-12-26 02:28:14",
 	"latency_hours": 1,
 	"latency_minutes": 15,
-	"latency_seconds": 38
+	"latency_seconds": 38,
+	"latency_total_minutes": 915
 }, {
 	"time": "2022-12-26 02:26:47",
 	"latency_hours": 1,
 	"latency_minutes": 23,
-	"latency_seconds": 13
+	"latency_seconds": 13,
+	"latency_total_minutes": 1403
 }, {
 	"time": "2022-12-26 02:27:14",
 	"latency_hours": 1,
 	"latency_minutes": 28,
-	"latency_seconds": 3
+	"latency_seconds": 3,
+	"latency_total_minutes": 1708
 }, {
 	"time": "2022-12-26 02:27:29",
 	"latency_hours": 0,
 	"latency_minutes": 27,
-	"latency_seconds": 29
+	"latency_seconds": 29,
+	"latency_total_minutes": 1647
 }, {
 	"time": "2022-12-26 02:27:43",
 	"latency_hours": 0,
 	"latency_minutes": 21,
-	"latency_seconds": 4
+	"latency_seconds": 4,
+	"latency_total_minutes": 1281
 }, {
 	"time": "2022-12-26 02:28:38",
 	"latency_hours": 0,
 	"latency_minutes": 16,
-	"latency_seconds": 18
+	"latency_seconds": 18,
+	"latency_total_minutes": 976
 }, {
 	"time": "2022-12-26 02:29:04",
 	"latency_hours": 0,
 	"latency_minutes": 11,
-	"latency_seconds": 2
+	"latency_seconds": 2,
+	"latency_total_minutes": 671
 }, {
 	"time": "2022-12-26 02:40:22",
 	"latency_hours": 0,
 	"latency_minutes": 17,
-	"latency_seconds": 21
+	"latency_seconds": 21,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 02:38:34",
 	"latency_hours": 0,
 	"latency_minutes": 9,
-	"latency_seconds": 10
+	"latency_seconds": 10,
+	"latency_total_minutes": 549
 }, {
 	"time": "2022-12-26 03:19:47",
 	"latency_hours": 1,
 	"latency_minutes": 16,
-	"latency_seconds": 42
+	"latency_seconds": 42,
+	"latency_total_minutes": 976
 }, {
 	"time": "2022-12-26 03:18:55",
 	"latency_hours": 1,
 	"latency_minutes": 22,
-	"latency_seconds": 8
+	"latency_seconds": 8,
+	"latency_total_minutes": 1342
 }, {
 	"time": "2022-12-26 03:19:40",
 	"latency_hours": 1,
 	"latency_minutes": 27,
-	"latency_seconds": 12
+	"latency_seconds": 12,
+	"latency_total_minutes": 1647
 }, {
 	"time": "2022-12-26 03:22:14",
 	"latency_hours": 1,
 	"latency_minutes": 30,
-	"latency_seconds": 5
+	"latency_seconds": 5,
+	"latency_total_minutes": 1830
 }, {
 	"time": "2022-12-26 03:23:01",
 	"latency_hours": 1,
 	"latency_minutes": 34,
-	"latency_seconds": 51
+	"latency_seconds": 51,
+	"latency_total_minutes": 2074
 }, {
 	"time": "2022-12-26 03:23:51",
 	"latency_hours": 0,
 	"latency_minutes": 20,
-	"latency_seconds": 18
+	"latency_seconds": 18,
+	"latency_total_minutes": 1220
 }, {
 	"time": "2022-12-26 03:24:24",
 	"latency_hours": 0,
 	"latency_minutes": 15,
-	"latency_seconds": 10
+	"latency_seconds": 10,
+	"latency_total_minutes": 915
 }, {
 	"time": "2022-12-26 03:38:23",
 	"latency_hours": 0,
 	"latency_minutes": 24,
-	"latency_seconds": 33
+	"latency_seconds": 33,
+	"latency_total_minutes": 1464
 }, {
 	"time": "2022-12-26 03:38:13",
 	"latency_hours": 0,
 	"latency_minutes": 18,
-	"latency_seconds": 24
+	"latency_seconds": 24,
+	"latency_total_minutes": 1098
 }, {
 	"time": "2022-12-26 04:08:33",
 	"latency_hours": 1,
 	"latency_minutes": 18,
-	"latency_seconds": 15
+	"latency_seconds": 15,
+	"latency_total_minutes": 1098
 }, {
 	"time": "2022-12-26 04:07:16",
 	"latency_hours": 1,
 	"latency_minutes": 24,
-	"latency_seconds": 43
+	"latency_seconds": 43,
+	"latency_total_minutes": 1464
 }, {
 	"time": "2022-12-26 04:07:57",
 	"latency_hours": 1,
 	"latency_minutes": 30,
-	"latency_seconds": 16
+	"latency_seconds": 16,
+	"latency_total_minutes": 1830
 }, {
 	"time": "2022-12-26 04:08:07",
 	"latency_hours": 1,
 	"latency_minutes": 35,
-	"latency_seconds": 15
+	"latency_seconds": 15,
+	"latency_total_minutes": 2135
 }, {
 	"time": "2022-12-26 04:08:25",
 	"latency_hours": 1,
 	"latency_minutes": 41,
-	"latency_seconds": 22
+	"latency_seconds": 22,
+	"latency_total_minutes": 2501
 }, {
 	"time": "2022-12-26 04:09:15",
 	"latency_hours": 1,
 	"latency_minutes": 45,
-	"latency_seconds": 29
+	"latency_seconds": 29,
+	"latency_total_minutes": 2745
 }, {
 	"time": "2022-12-26 04:20:46",
 	"latency_hours": 0,
 	"latency_minutes": 20,
-	"latency_seconds": 19
+	"latency_seconds": 19,
+	"latency_total_minutes": 1220
 }, {
 	"time": "2022-12-26 04:20:51",
 	"latency_hours": 0,
 	"latency_minutes": 14,
-	"latency_seconds": 42
+	"latency_seconds": 42,
+	"latency_total_minutes": 854
 }, {
 	"time": "2022-12-26 04:27:33",
 	"latency_hours": 0,
 	"latency_minutes": 16,
-	"latency_seconds": 17
+	"latency_seconds": 17,
+	"latency_total_minutes": 976
 }, {
 	"time": "2022-12-26 05:00:37",
 	"latency_hours": 1,
 	"latency_minutes": 17,
-	"latency_seconds": 6
+	"latency_seconds": 6,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 04:59:23",
 	"latency_hours": 0,
 	"latency_minutes": 36,
-	"latency_seconds": 11
+	"latency_seconds": 11,
+	"latency_total_minutes": 2196
 }, {
 	"time": "2022-12-26 05:00:29",
 	"latency_hours": 1,
 	"latency_minutes": 28,
-	"latency_seconds": 25
+	"latency_seconds": 25,
+	"latency_total_minutes": 1708
 }, {
 	"time": "2022-12-26 05:03:49",
 	"latency_hours": 1,
 	"latency_minutes": 31,
-	"latency_seconds": 14
+	"latency_seconds": 14,
+	"latency_total_minutes": 1891
 }, {
 	"time": "2022-12-26 05:04:17",
 	"latency_hours": 1,
 	"latency_minutes": 36,
-	"latency_seconds": 1
+	"latency_seconds": 1,
+	"latency_total_minutes": 2196
 }, {
 	"time": "2022-12-26 05:04:49",
 	"latency_hours": 1,
 	"latency_minutes": 41,
-	"latency_seconds": 8
+	"latency_seconds": 8,
+	"latency_total_minutes": 2501
 }, {
 	"time": "2022-12-26 05:11:00",
 	"latency_hours": 1,
 	"latency_minutes": 40,
-	"latency_seconds": 39
+	"latency_seconds": 39,
+	"latency_total_minutes": 2440
 }, {
 	"time": "2022-12-26 05:18:37",
 	"latency_hours": 1,
 	"latency_minutes": 39,
-	"latency_seconds": 17
+	"latency_seconds": 17,
+	"latency_total_minutes": 2379
 }, {
 	"time": "2022-12-26 05:25:35",
 	"latency_hours": 0,
 	"latency_minutes": 22,
-	"latency_seconds": 32
+	"latency_seconds": 32,
+	"latency_total_minutes": 1342
 }, {
 	"time": "2022-12-26 05:49:01",
 	"latency_hours": 0,
 	"latency_minutes": 41,
-	"latency_seconds": 43
+	"latency_seconds": 43,
+	"latency_total_minutes": 2501
 }, {
 	"time": "2022-12-26 05:47:37",
 	"latency_hours": 0,
 	"latency_minutes": 33,
-	"latency_seconds": 12
+	"latency_seconds": 12,
+	"latency_total_minutes": 2013
 }, {
 	"time": "2022-12-26 05:48:10",
 	"latency_hours": 0,
 	"latency_minutes": 28,
-	"latency_seconds": 3
+	"latency_seconds": 3,
+	"latency_total_minutes": 1708
 }, {
 	"time": "2022-12-26 05:48:08",
 	"latency_hours": 0,
 	"latency_minutes": 23,
-	"latency_seconds": 40
+	"latency_seconds": 40,
+	"latency_total_minutes": 1403
 }, {
 	"time": "2022-12-26 05:48:49",
 	"latency_hours": 0,
 	"latency_minutes": 17,
-	"latency_seconds": 20
+	"latency_seconds": 20,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 05:49:35",
 	"latency_hours": 0,
 	"latency_minutes": 12,
-	"latency_seconds": 25
+	"latency_seconds": 25,
+	"latency_total_minutes": 732
 }, {
 	"time": "2022-12-26 06:00:25",
 	"latency_hours": 1,
 	"latency_minutes": 42,
-	"latency_seconds": 26
+	"latency_seconds": 26,
+	"latency_total_minutes": 2562
 }, {
 	"time": "2022-12-26 05:58:40",
 	"latency_hours": 0,
 	"latency_minutes": 10,
-	"latency_seconds": 7
+	"latency_seconds": 7,
+	"latency_total_minutes": 610
 }, {
 	"time": "2022-12-26 06:40:52",
 	"latency_hours": 1,
 	"latency_minutes": 14,
-	"latency_seconds": 38
+	"latency_seconds": 38,
+	"latency_total_minutes": 854
 }, {
 	"time": "2022-12-26 06:39:58",
 	"latency_hours": 1,
 	"latency_minutes": 20,
-	"latency_seconds": 3
+	"latency_seconds": 3,
+	"latency_total_minutes": 1220
 }, {
 	"time": "2022-12-26 06:40:41",
 	"latency_hours": 0,
 	"latency_minutes": 35,
-	"latency_seconds": 3
+	"latency_seconds": 3,
+	"latency_total_minutes": 2135
 }, {
 	"time": "2022-12-26 06:43:10",
 	"latency_hours": 0,
 	"latency_minutes": 32,
-	"latency_seconds": 9
+	"latency_seconds": 9,
+	"latency_total_minutes": 1952
 }, {
 	"time": "2022-12-26 06:44:10",
 	"latency_hours": 0,
 	"latency_minutes": 27,
-	"latency_seconds": 9
+	"latency_seconds": 9,
+	"latency_total_minutes": 1647
 }, {
 	"time": "2022-12-26 06:44:53",
 	"latency_hours": 0,
 	"latency_minutes": 22,
-	"latency_seconds": 11
+	"latency_seconds": 11,
+	"latency_total_minutes": 1342
 }, {
 	"time": "2022-12-26 06:45:29",
 	"latency_hours": 0,
 	"latency_minutes": 17,
-	"latency_seconds": 6
+	"latency_seconds": 6,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 06:58:53",
 	"latency_hours": 0,
 	"latency_minutes": 24,
-	"latency_seconds": 49
+	"latency_seconds": 49,
+	"latency_total_minutes": 1464
 }, {
 	"time": "2022-12-26 06:58:19",
 	"latency_hours": 0,
 	"latency_minutes": 19,
-	"latency_seconds": 27
+	"latency_seconds": 27,
+	"latency_total_minutes": 1159
 }, {
 	"time": "2022-12-26 07:28:42",
 	"latency_hours": 1,
 	"latency_minutes": 17,
-	"latency_seconds": 15
+	"latency_seconds": 15,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 07:28:46",
 	"latency_hours": 1,
 	"latency_minutes": 23,
-	"latency_seconds": 38
+	"latency_seconds": 38,
+	"latency_total_minutes": 1403
 }, {
 	"time": "2022-12-26 07:27:47",
 	"latency_hours": 1,
 	"latency_minutes": 29,
-	"latency_seconds": 2
+	"latency_seconds": 2,
+	"latency_total_minutes": 1769
 }, {
 	"time": "2022-12-26 07:28:16",
 	"latency_hours": 0,
 	"latency_minutes": 26,
-	"latency_seconds": 15
+	"latency_seconds": 15,
+	"latency_total_minutes": 1586
 }, {
 	"time": "2022-12-26 07:28:55",
 	"latency_hours": 0,
 	"latency_minutes": 20,
-	"latency_seconds": 41
+	"latency_seconds": 41,
+	"latency_total_minutes": 1220
 }, {
 	"time": "2022-12-26 07:29:33",
 	"latency_hours": 0,
 	"latency_minutes": 16,
-	"latency_seconds": 22
+	"latency_seconds": 22,
+	"latency_total_minutes": 976
 }, {
 	"time": "2022-12-26 07:36:52",
 	"latency_hours": 0,
 	"latency_minutes": 17,
-	"latency_seconds": 16
+	"latency_seconds": 16,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 07:41:01",
 	"latency_hours": 0,
 	"latency_minutes": 16,
-	"latency_seconds": 16
+	"latency_seconds": 16,
+	"latency_total_minutes": 976
 }, {
 	"time": "2022-12-26 07:50:43",
 	"latency_hours": 0,
 	"latency_minutes": 20,
-	"latency_seconds": 16
+	"latency_seconds": 16,
+	"latency_total_minutes": 1220
 }, {
 	"time": "2022-12-26 08:21:42",
 	"latency_hours": 1,
 	"latency_minutes": 15,
-	"latency_seconds": 2
+	"latency_seconds": 2,
+	"latency_total_minutes": 915
 }, {
 	"time": "2022-12-26 08:20:27",
 	"latency_hours": 1,
 	"latency_minutes": 22,
-	"latency_seconds": 6
+	"latency_seconds": 6,
+	"latency_total_minutes": 1342
 }, {
 	"time": "2022-12-26 08:21:14",
 	"latency_hours": 1,
 	"latency_minutes": 27,
-	"latency_seconds": 12
+	"latency_seconds": 12,
+	"latency_total_minutes": 1647
 }, {
 	"time": "2022-12-26 08:23:57",
 	"latency_hours": 1,
 	"latency_minutes": 30,
-	"latency_seconds": 13
+	"latency_seconds": 13,
+	"latency_total_minutes": 1830
 }, {
 	"time": "2022-12-26 08:24:39",
 	"latency_hours": 1,
 	"latency_minutes": 35,
-	"latency_seconds": 14
+	"latency_seconds": 14,
+	"latency_total_minutes": 2135
 }, {
 	"time": "2022-12-26 08:25:19",
 	"latency_hours": 0,
 	"latency_minutes": 20,
-	"latency_seconds": 13
+	"latency_seconds": 13,
+	"latency_total_minutes": 1220
 }, {
 	"time": "2022-12-26 08:25:20",
 	"latency_hours": 0,
 	"latency_minutes": 15,
-	"latency_seconds": 29
+	"latency_seconds": 29,
+	"latency_total_minutes": 915
 }, {
 	"time": "2022-12-26 08:39:16",
 	"latency_hours": 0,
 	"latency_minutes": 23,
-	"latency_seconds": 14
+	"latency_seconds": 14,
+	"latency_total_minutes": 1403
 }, {
 	"time": "2022-12-26 08:39:20",
 	"latency_hours": 0,
 	"latency_minutes": 17,
-	"latency_seconds": 8
+	"latency_seconds": 8,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 09:09:26",
 	"latency_hours": 1,
 	"latency_minutes": 18,
-	"latency_seconds": 27
+	"latency_seconds": 27,
+	"latency_total_minutes": 1098
 }, {
 	"time": "2022-12-26 09:07:48",
 	"latency_hours": 1,
 	"latency_minutes": 26,
-	"latency_seconds": 14
+	"latency_seconds": 14,
+	"latency_total_minutes": 1586
 }, {
 	"time": "2022-12-26 09:08:13",
 	"latency_hours": 1,
 	"latency_minutes": 31,
-	"latency_seconds": 2
+	"latency_seconds": 2,
+	"latency_total_minutes": 1891
 }, {
 	"time": "2022-12-26 09:08:33",
 	"latency_hours": 1,
 	"latency_minutes": 36,
-	"latency_seconds": 23
+	"latency_seconds": 23,
+	"latency_total_minutes": 2196
 }, {
 	"time": "2022-12-26 09:09:04",
 	"latency_hours": 1,
 	"latency_minutes": 41,
-	"latency_seconds": 34
+	"latency_seconds": 34,
+	"latency_total_minutes": 2501
 }, {
 	"time": "2022-12-26 09:09:56",
 	"latency_hours": 1,
 	"latency_minutes": 47,
-	"latency_seconds": 37
+	"latency_seconds": 37,
+	"latency_total_minutes": 2867
 }, {
 	"time": "2022-12-26 09:21:17",
 	"latency_hours": 0,
 	"latency_minutes": 19,
-	"latency_seconds": 17
+	"latency_seconds": 17,
+	"latency_total_minutes": 1159
 }, {
 	"time": "2022-12-26 09:21:15",
 	"latency_hours": 0,
 	"latency_minutes": 14,
-	"latency_seconds": 26
+	"latency_seconds": 26,
+	"latency_total_minutes": 854
 }, {
 	"time": "2022-12-26 10:00:52",
 	"latency_hours": 1,
 	"latency_minutes": 13,
-	"latency_seconds": 28
+	"latency_seconds": 28,
+	"latency_total_minutes": 793
 }, {
 	"time": "2022-12-26 10:00:47",
 	"latency_hours": 1,
 	"latency_minutes": 19,
-	"latency_seconds": 41
+	"latency_seconds": 41,
+	"latency_total_minutes": 1159
 }, {
 	"time": "2022-12-26 10:00:30",
 	"latency_hours": 1,
 	"latency_minutes": 24,
-	"latency_seconds": 17
+	"latency_seconds": 17,
+	"latency_total_minutes": 1464
 }, {
 	"time": "2022-12-26 10:01:02",
 	"latency_hours": 1,
 	"latency_minutes": 29,
-	"latency_seconds": 26
+	"latency_seconds": 26,
+	"latency_total_minutes": 1769
 }, {
 	"time": "2022-12-26 10:03:46",
 	"latency_hours": 1,
 	"latency_minutes": 33,
-	"latency_seconds": 37
+	"latency_seconds": 37,
+	"latency_total_minutes": 2013
 }, {
 	"time": "2022-12-26 10:04:40",
 	"latency_hours": 1,
 	"latency_minutes": 37,
-	"latency_seconds": 11
+	"latency_seconds": 11,
+	"latency_total_minutes": 2257
 }, {
 	"time": "2022-12-26 10:05:25",
 	"latency_hours": 1,
 	"latency_minutes": 42,
-	"latency_seconds": 7
+	"latency_seconds": 7,
+	"latency_total_minutes": 2562
 }, {
 	"time": "2022-12-26 10:18:47",
 	"latency_hours": 1,
 	"latency_minutes": 35,
-	"latency_seconds": 34
+	"latency_seconds": 34,
+	"latency_total_minutes": 2135
 }, {
 	"time": "2022-12-26 10:18:43",
 	"latency_hours": 1,
 	"latency_minutes": 40,
-	"latency_seconds": 11
+	"latency_seconds": 11,
+	"latency_total_minutes": 2440
 }, {
 	"time": "2022-12-26 10:49:51",
 	"latency_hours": 0,
 	"latency_minutes": 45,
-	"latency_seconds": 15
+	"latency_seconds": 15,
+	"latency_total_minutes": 2745
 }, {
 	"time": "2022-12-26 10:49:51",
 	"latency_hours": 0,
 	"latency_minutes": 39,
-	"latency_seconds": 34
+	"latency_seconds": 34,
+	"latency_total_minutes": 2379
 }, {
 	"time": "2022-12-26 10:48:00",
 	"latency_hours": 0,
 	"latency_minutes": 32,
-	"latency_seconds": 0
+	"latency_seconds": 0,
+	"latency_total_minutes": 1952
 }, {
 	"time": "2022-12-26 10:48:49",
 	"latency_hours": 0,
 	"latency_minutes": 27,
-	"latency_seconds": 8
+	"latency_seconds": 8,
+	"latency_total_minutes": 1647
 }, {
 	"time": "2022-12-26 10:49:25",
 	"latency_hours": 0,
 	"latency_minutes": 22,
-	"latency_seconds": 3
+	"latency_seconds": 3,
+	"latency_total_minutes": 1342
 }, {
 	"time": "2022-12-26 10:49:51",
 	"latency_hours": 0,
 	"latency_minutes": 16,
-	"latency_seconds": 47
+	"latency_seconds": 47,
+	"latency_total_minutes": 976
 }, {
 	"time": "2022-12-26 10:50:36",
 	"latency_hours": 0,
 	"latency_minutes": 12,
-	"latency_seconds": 9
+	"latency_seconds": 9,
+	"latency_total_minutes": 732
 }, {
 	"time": "2022-12-26 11:02:01",
 	"latency_hours": 1,
 	"latency_minutes": 42,
-	"latency_seconds": 25
+	"latency_seconds": 25,
+	"latency_total_minutes": 2562
 }, {
 	"time": "2022-12-26 11:00:04",
 	"latency_hours": 1,
 	"latency_minutes": 50,
-	"latency_seconds": 3
+	"latency_seconds": 3,
+	"latency_total_minutes": 3050
 }, {
 	"time": "2022-12-26 11:43:11",
 	"latency_hours": 1,
 	"latency_minutes": 12,
-	"latency_seconds": 38
+	"latency_seconds": 38,
+	"latency_total_minutes": 732
 }, {
 	"time": "2022-12-26 11:40:43",
 	"latency_hours": 0,
 	"latency_minutes": 39,
-	"latency_seconds": 13
+	"latency_seconds": 13,
+	"latency_total_minutes": 2379
 }, {
 	"time": "2022-12-26 11:41:41",
 	"latency_hours": 0,
 	"latency_minutes": 34,
-	"latency_seconds": 30
+	"latency_seconds": 30,
+	"latency_total_minutes": 2074
 }, {
 	"time": "2022-12-26 11:42:36",
 	"latency_hours": 0,
 	"latency_minutes": 30,
-	"latency_seconds": 16
+	"latency_seconds": 16,
+	"latency_total_minutes": 1830
 }, {
 	"time": "2022-12-26 11:43:18",
 	"latency_hours": 0,
 	"latency_minutes": 25,
-	"latency_seconds": 17
+	"latency_seconds": 17,
+	"latency_total_minutes": 1525
 }, {
 	"time": "2022-12-26 11:45:45",
 	"latency_hours": 0,
 	"latency_minutes": 21,
-	"latency_seconds": 28
+	"latency_seconds": 28,
+	"latency_total_minutes": 1281
 }, {
 	"time": "2022-12-26 11:47:34",
 	"latency_hours": 0,
 	"latency_minutes": 18,
-	"latency_seconds": 24
+	"latency_seconds": 24,
+	"latency_total_minutes": 1098
 }, {
 	"time": "2022-12-26 12:00:24",
 	"latency_hours": 1,
 	"latency_minutes": 35,
-	"latency_seconds": 15
+	"latency_seconds": 15,
+	"latency_total_minutes": 2135
 }, {
 	"time": "2022-12-26 11:59:57",
 	"latency_hours": 0,
 	"latency_minutes": 18,
-	"latency_seconds": 37
+	"latency_seconds": 37,
+	"latency_total_minutes": 1098
 }, {
 	"time": "2022-12-26 12:31:30",
 	"latency_hours": 1,
 	"latency_minutes": 16,
-	"latency_seconds": 29
+	"latency_seconds": 29,
+	"latency_total_minutes": 976
 }, {
 	"time": "2022-12-26 12:29:38",
 	"latency_hours": 1,
 	"latency_minutes": 23,
-	"latency_seconds": 5
+	"latency_seconds": 5,
+	"latency_total_minutes": 1403
 }, {
 	"time": "2022-12-26 12:30:21",
 	"latency_hours": 1,
 	"latency_minutes": 28,
-	"latency_seconds": 3
+	"latency_seconds": 3,
+	"latency_total_minutes": 1708
 }, {
 	"time": "2022-12-26 12:30:55",
 	"latency_hours": 0,
 	"latency_minutes": 26,
-	"latency_seconds": 50
+	"latency_seconds": 50,
+	"latency_total_minutes": 1586
 }, {
 	"time": "2022-12-26 12:31:11",
 	"latency_hours": 0,
 	"latency_minutes": 22,
-	"latency_seconds": 35
+	"latency_seconds": 35,
+	"latency_total_minutes": 1342
 }, {
 	"time": "2022-12-26 12:31:38",
 	"latency_hours": 0,
 	"latency_minutes": 16,
-	"latency_seconds": 10
+	"latency_seconds": 10,
+	"latency_total_minutes": 976
 }, {
 	"time": "2022-12-26 12:32:14",
 	"latency_hours": 0,
 	"latency_minutes": 11,
-	"latency_seconds": 3
+	"latency_seconds": 3,
+	"latency_total_minutes": 671
 }, {
 	"time": "2022-12-26 12:42:30",
 	"latency_hours": 0,
 	"latency_minutes": 16,
-	"latency_seconds": 22
+	"latency_seconds": 22,
+	"latency_total_minutes": 976
 }, {
 	"time": "2022-12-26 12:52:14",
 	"latency_hours": 0,
 	"latency_minutes": 20,
-	"latency_seconds": 19
+	"latency_seconds": 19,
+	"latency_total_minutes": 1220
 }, {
 	"time": "2022-12-26 13:21:57",
 	"latency_hours": 1,
 	"latency_minutes": 17,
-	"latency_seconds": 43
+	"latency_seconds": 43,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 13:21:14",
 	"latency_hours": 1,
 	"latency_minutes": 22,
-	"latency_seconds": 42
+	"latency_seconds": 42,
+	"latency_total_minutes": 1342
 }, {
 	"time": "2022-12-26 13:22:11",
 	"latency_hours": 1,
 	"latency_minutes": 27,
-	"latency_seconds": 26
+	"latency_seconds": 26,
+	"latency_total_minutes": 1647
 }, {
 	"time": "2022-12-26 13:22:47",
 	"latency_hours": 1,
 	"latency_minutes": 33,
-	"latency_seconds": 29
+	"latency_seconds": 29,
+	"latency_total_minutes": 2013
 }, {
 	"time": "2022-12-26 13:23:42",
 	"latency_hours": 0,
 	"latency_minutes": 23,
-	"latency_seconds": 17
+	"latency_seconds": 17,
+	"latency_total_minutes": 1403
 }, {
 	"time": "2022-12-26 13:24:40",
 	"latency_hours": 0,
 	"latency_minutes": 18,
-	"latency_seconds": 1
+	"latency_seconds": 1,
+	"latency_total_minutes": 1098
 }, {
 	"time": "2022-12-26 13:28:46",
 	"latency_hours": 0,
 	"latency_minutes": 16,
-	"latency_seconds": 24
+	"latency_seconds": 24,
+	"latency_total_minutes": 976
 }, {
 	"time": "2022-12-26 13:40:53",
 	"latency_hours": 0,
 	"latency_minutes": 22,
-	"latency_seconds": 50
+	"latency_seconds": 50,
+	"latency_total_minutes": 1342
 }, {
 	"time": "2022-12-26 13:40:34",
 	"latency_hours": 0,
 	"latency_minutes": 17,
-	"latency_seconds": 12
+	"latency_seconds": 12,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 14:13:59",
 	"latency_hours": 1,
 	"latency_minutes": 16,
-	"latency_seconds": 32
+	"latency_seconds": 32,
+	"latency_total_minutes": 976
 }, {
 	"time": "2022-12-26 14:12:11",
 	"latency_hours": 1,
 	"latency_minutes": 23,
-	"latency_seconds": 2
+	"latency_seconds": 2,
+	"latency_total_minutes": 1403
 }, {
 	"time": "2022-12-26 14:12:38",
 	"latency_hours": 1,
 	"latency_minutes": 28,
-	"latency_seconds": 12
+	"latency_seconds": 12,
+	"latency_total_minutes": 1708
 }, {
 	"time": "2022-12-26 14:12:55",
 	"latency_hours": 1,
 	"latency_minutes": 34,
-	"latency_seconds": 24
+	"latency_seconds": 24,
+	"latency_total_minutes": 2074
 }, {
 	"time": "2022-12-26 14:13:36",
 	"latency_hours": 1,
 	"latency_minutes": 39,
-	"latency_seconds": 24
+	"latency_seconds": 24,
+	"latency_total_minutes": 2379
 }, {
 	"time": "2022-12-26 14:14:01",
 	"latency_hours": 1,
 	"latency_minutes": 43,
-	"latency_seconds": 53
+	"latency_seconds": 53,
+	"latency_total_minutes": 2623
 }, {
 	"time": "2022-12-26 14:14:27",
 	"latency_hours": 0,
 	"latency_minutes": 11,
-	"latency_seconds": 8
+	"latency_seconds": 8,
+	"latency_total_minutes": 671
 }, {
 	"time": "2022-12-26 14:23:25",
 	"latency_hours": 0,
 	"latency_minutes": 14,
-	"latency_seconds": 9
+	"latency_seconds": 9,
+	"latency_total_minutes": 854
 }, {
 	"time": "2022-12-26 15:03:51",
 	"latency_hours": 1,
 	"latency_minutes": 11,
-	"latency_seconds": 6
+	"latency_seconds": 6,
+	"latency_total_minutes": 671
 }, {
 	"time": "2022-12-26 15:03:53",
 	"latency_hours": 1,
 	"latency_minutes": 17,
-	"latency_seconds": 15
+	"latency_seconds": 15,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 15:03:08",
 	"latency_hours": 1,
 	"latency_minutes": 23,
-	"latency_seconds": 13
+	"latency_seconds": 13,
+	"latency_total_minutes": 1403
 }, {
 	"time": "2022-12-26 15:04:02",
 	"latency_hours": 1,
 	"latency_minutes": 28,
-	"latency_seconds": 1
+	"latency_seconds": 1,
+	"latency_total_minutes": 1708
 }, {
 	"time": "2022-12-26 15:05:12",
 	"latency_hours": 1,
 	"latency_minutes": 32,
-	"latency_seconds": 32
+	"latency_seconds": 32,
+	"latency_total_minutes": 1952
 }, {
 	"time": "2022-12-26 15:05:55",
 	"latency_hours": 1,
 	"latency_minutes": 38,
-	"latency_seconds": 30
+	"latency_seconds": 30,
+	"latency_total_minutes": 2318
 }, {
 	"time": "2022-12-26 15:07:07",
 	"latency_hours": 1,
 	"latency_minutes": 42,
-	"latency_seconds": 1
+	"latency_seconds": 1,
+	"latency_total_minutes": 2562
 }, {
 	"time": "2022-12-26 15:14:16",
 	"latency_hours": 1,
 	"latency_minutes": 40,
-	"latency_seconds": 32
+	"latency_seconds": 32,
+	"latency_total_minutes": 2440
 }, {
 	"time": "2022-12-26 15:22:03",
 	"latency_hours": 0,
 	"latency_minutes": 22,
-	"latency_seconds": 26
+	"latency_seconds": 26,
+	"latency_total_minutes": 1342
 }, {
 	"time": "2022-12-26 15:57:24",
 	"latency_hours": 0,
 	"latency_minutes": 51,
-	"latency_seconds": 14
+	"latency_seconds": 14,
+	"latency_total_minutes": 3111
 }, {
 	"time": "2022-12-26 15:57:26",
 	"latency_hours": 0,
 	"latency_minutes": 46,
-	"latency_seconds": 25
+	"latency_seconds": 25,
+	"latency_total_minutes": 2806
 }, {
 	"time": "2022-12-26 15:55:33",
 	"latency_hours": 0,
 	"latency_minutes": 38,
-	"latency_seconds": 0
+	"latency_seconds": 0,
+	"latency_total_minutes": 2318
 }, {
 	"time": "2022-12-26 15:56:12",
 	"latency_hours": 0,
 	"latency_minutes": 33,
-	"latency_seconds": 2
+	"latency_seconds": 2,
+	"latency_total_minutes": 2013
 }, {
 	"time": "2022-12-26 15:56:39",
 	"latency_hours": 0,
 	"latency_minutes": 28,
-	"latency_seconds": 18
+	"latency_seconds": 18,
+	"latency_total_minutes": 1708
 }, {
 	"time": "2022-12-26 15:56:51",
 	"latency_hours": 0,
 	"latency_minutes": 22,
-	"latency_seconds": 13
+	"latency_seconds": 13,
+	"latency_total_minutes": 1342
 }, {
 	"time": "2022-12-26 15:57:45",
 	"latency_hours": 0,
 	"latency_minutes": 17,
-	"latency_seconds": 26
+	"latency_seconds": 26,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 15:58:12",
 	"latency_hours": 0,
 	"latency_minutes": 12,
-	"latency_seconds": 11
+	"latency_seconds": 11,
+	"latency_total_minutes": 732
 }, {
 	"time": "2022-12-26 16:04:26",
 	"latency_hours": 1,
 	"latency_minutes": 47,
-	"latency_seconds": 16
+	"latency_seconds": 16,
+	"latency_total_minutes": 2867
 }, {
 	"time": "2022-12-26 16:46:33",
 	"latency_hours": 1,
 	"latency_minutes": 11,
-	"latency_seconds": 10
+	"latency_seconds": 10,
+	"latency_total_minutes": 671
 }, {
 	"time": "2022-12-26 16:46:22",
 	"latency_hours": 0,
 	"latency_minutes": 43,
-	"latency_seconds": 18
+	"latency_seconds": 18,
+	"latency_total_minutes": 2623
 }, {
 	"time": "2022-12-26 16:45:59",
 	"latency_hours": 0,
 	"latency_minutes": 37,
-	"latency_seconds": 13
+	"latency_seconds": 13,
+	"latency_total_minutes": 2257
 }, {
 	"time": "2022-12-26 16:46:59",
 	"latency_hours": 0,
 	"latency_minutes": 32,
-	"latency_seconds": 32
+	"latency_seconds": 32,
+	"latency_total_minutes": 1952
 }, {
 	"time": "2022-12-26 16:47:56",
 	"latency_hours": 0,
 	"latency_minutes": 27,
-	"latency_seconds": 48
+	"latency_seconds": 48,
+	"latency_total_minutes": 1647
 }, {
 	"time": "2022-12-26 16:48:55",
 	"latency_hours": 0,
 	"latency_minutes": 23,
-	"latency_seconds": 6
+	"latency_seconds": 6,
+	"latency_total_minutes": 1403
 }, {
 	"time": "2022-12-26 16:49:30",
 	"latency_hours": 0,
 	"latency_minutes": 18,
-	"latency_seconds": 1
+	"latency_seconds": 1,
+	"latency_total_minutes": 1098
 }, {
 	"time": "2022-12-26 16:56:46",
 	"latency_hours": 0,
 	"latency_minutes": 19,
-	"latency_seconds": 32
+	"latency_seconds": 32,
+	"latency_total_minutes": 1159
 }, {
 	"time": "2022-12-26 17:05:30",
 	"latency_hours": 1,
 	"latency_minutes": 37,
-	"latency_seconds": 25
+	"latency_seconds": 25,
+	"latency_total_minutes": 2257
 }, {
 	"time": "2022-12-26 17:41:20",
 	"latency_hours": 1,
 	"latency_minutes": 7,
-	"latency_seconds": 16
+	"latency_seconds": 16,
+	"latency_total_minutes": 427
 }, {
 	"time": "2022-12-26 17:41:06",
 	"latency_hours": 1,
 	"latency_minutes": 13,
-	"latency_seconds": 11
+	"latency_seconds": 11,
+	"latency_total_minutes": 793
 }, {
 	"time": "2022-12-26 17:39:32",
 	"latency_hours": 1,
 	"latency_minutes": 20,
-	"latency_seconds": 26
+	"latency_seconds": 26,
+	"latency_total_minutes": 1220
 }, {
 	"time": "2022-12-26 17:40:28",
 	"latency_hours": 0,
 	"latency_minutes": 35,
-	"latency_seconds": 12
+	"latency_seconds": 12,
+	"latency_total_minutes": 2135
 }, {
 	"time": "2022-12-26 17:40:44",
 	"latency_hours": 0,
 	"latency_minutes": 29,
-	"latency_seconds": 23
+	"latency_seconds": 23,
+	"latency_total_minutes": 1769
 }, {
 	"time": "2022-12-26 17:41:01",
 	"latency_hours": 0,
 	"latency_minutes": 24,
-	"latency_seconds": 1
+	"latency_seconds": 1,
+	"latency_total_minutes": 1464
 }, {
 	"time": "2022-12-26 17:41:45",
 	"latency_hours": 0,
 	"latency_minutes": 19,
-	"latency_seconds": 2
+	"latency_seconds": 2,
+	"latency_total_minutes": 1159
 }, {
 	"time": "2022-12-26 17:42:11",
 	"latency_hours": 0,
 	"latency_minutes": 14,
-	"latency_seconds": 14
+	"latency_seconds": 14,
+	"latency_total_minutes": 854
 }, {
 	"time": "2022-12-26 17:46:50",
 	"latency_hours": 0,
 	"latency_minutes": 12,
-	"latency_seconds": 44
+	"latency_seconds": 44,
+	"latency_total_minutes": 732
 }, {
 	"time": "2022-12-26 18:30:43",
 	"latency_hours": 1,
 	"latency_minutes": 9,
-	"latency_seconds": 6
+	"latency_seconds": 6,
+	"latency_total_minutes": 549
 }, {
 	"time": "2022-12-26 18:30:33",
 	"latency_hours": 1,
 	"latency_minutes": 15,
-	"latency_seconds": 3
+	"latency_seconds": 3,
+	"latency_total_minutes": 915
 }, {
 	"time": "2022-12-26 18:30:12",
 	"latency_hours": 1,
 	"latency_minutes": 21,
-	"latency_seconds": 1
+	"latency_seconds": 1,
+	"latency_total_minutes": 1281
 }, {
 	"time": "2022-12-26 18:31:06",
 	"latency_hours": 1,
 	"latency_minutes": 25,
-	"latency_seconds": 47
+	"latency_seconds": 47,
+	"latency_total_minutes": 1525
 }, {
 	"time": "2022-12-26 18:31:49",
 	"latency_hours": 0,
 	"latency_minutes": 29,
-	"latency_seconds": 15
+	"latency_seconds": 15,
+	"latency_total_minutes": 1769
 }, {
 	"time": "2022-12-26 18:32:29",
 	"latency_hours": 0,
 	"latency_minutes": 24,
-	"latency_seconds": 14
+	"latency_seconds": 14,
+	"latency_total_minutes": 1464
 }, {
 	"time": "2022-12-26 18:33:26",
 	"latency_hours": 0,
 	"latency_minutes": 20,
-	"latency_seconds": 30
+	"latency_seconds": 30,
+	"latency_total_minutes": 1220
 }, {
 	"time": "2022-12-26 18:35:20",
 	"latency_hours": 0,
 	"latency_minutes": 16,
-	"latency_seconds": 18
+	"latency_seconds": 18,
+	"latency_total_minutes": 976
 }, {
 	"time": "2022-12-26 18:50:34",
 	"latency_hours": 0,
 	"latency_minutes": 25,
-	"latency_seconds": 15
+	"latency_seconds": 15,
+	"latency_total_minutes": 1525
 }, {
 	"time": "2022-12-26 19:24:19",
 	"latency_hours": 1,
 	"latency_minutes": 7,
-	"latency_seconds": 19
+	"latency_seconds": 19,
+	"latency_total_minutes": 427
 }, {
 	"time": "2022-12-26 19:22:25",
 	"latency_hours": 1,
 	"latency_minutes": 14,
-	"latency_seconds": 16
+	"latency_seconds": 16,
+	"latency_total_minutes": 854
 }, {
 	"time": "2022-12-26 19:22:55",
 	"latency_hours": 1,
 	"latency_minutes": 20,
-	"latency_seconds": 31
+	"latency_seconds": 31,
+	"latency_total_minutes": 1220
 }, {
 	"time": "2022-12-26 19:23:27",
 	"latency_hours": 1,
 	"latency_minutes": 25,
-	"latency_seconds": 21
+	"latency_seconds": 21,
+	"latency_total_minutes": 1525
 }, {
 	"time": "2022-12-26 19:23:58",
 	"latency_hours": 1,
 	"latency_minutes": 30,
-	"latency_seconds": 11
+	"latency_seconds": 11,
+	"latency_total_minutes": 1830
 }, {
 	"time": "2022-12-26 19:24:21",
 	"latency_hours": 1,
 	"latency_minutes": 35,
-	"latency_seconds": 7
+	"latency_seconds": 7,
+	"latency_total_minutes": 2135
 }, {
 	"time": "2022-12-26 19:24:48",
 	"latency_hours": 0,
 	"latency_minutes": 19,
-	"latency_seconds": 39
+	"latency_seconds": 39,
+	"latency_total_minutes": 1159
 }, {
 	"time": "2022-12-26 19:25:18",
 	"latency_hours": 0,
 	"latency_minutes": 15,
-	"latency_seconds": 33
+	"latency_seconds": 33,
+	"latency_total_minutes": 915
 }, {
 	"time": "2022-12-26 19:29:38",
 	"latency_hours": 0,
 	"latency_minutes": 13,
-	"latency_seconds": 6
+	"latency_seconds": 6,
+	"latency_total_minutes": 793
 }, {
 	"time": "2022-12-26 20:14:09",
 	"latency_hours": 1,
 	"latency_minutes": 8,
-	"latency_seconds": 4
+	"latency_seconds": 4,
+	"latency_total_minutes": 488
 }, {
 	"time": "2022-12-26 20:14:04",
 	"latency_hours": 1,
 	"latency_minutes": 13,
-	"latency_seconds": 50
+	"latency_seconds": 50,
+	"latency_total_minutes": 793
 }, {
 	"time": "2022-12-26 20:13:51",
 	"latency_hours": 1,
 	"latency_minutes": 20,
-	"latency_seconds": 15
+	"latency_seconds": 15,
+	"latency_total_minutes": 1220
 }, {
 	"time": "2022-12-26 20:14:50",
 	"latency_hours": 1,
 	"latency_minutes": 25,
-	"latency_seconds": 33
+	"latency_seconds": 33,
+	"latency_total_minutes": 1525
 }, {
 	"time": "2022-12-26 20:15:27",
 	"latency_hours": 1,
 	"latency_minutes": 30,
-	"latency_seconds": 27
+	"latency_seconds": 27,
+	"latency_total_minutes": 1830
 }, {
 	"time": "2022-12-26 20:16:13",
 	"latency_hours": 1,
 	"latency_minutes": 34,
-	"latency_seconds": 28
+	"latency_seconds": 28,
+	"latency_total_minutes": 2074
 }, {
 	"time": "2022-12-26 20:18:44",
 	"latency_hours": 1,
 	"latency_minutes": 38,
-	"latency_seconds": 22
+	"latency_seconds": 22,
+	"latency_total_minutes": 2318
 }, {
 	"time": "2022-12-26 20:19:55",
 	"latency_hours": 0,
 	"latency_minutes": 17,
-	"latency_seconds": 52
+	"latency_seconds": 52,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 20:34:24",
 	"latency_hours": 0,
 	"latency_minutes": 27,
-	"latency_seconds": 21
+	"latency_seconds": 21,
+	"latency_total_minutes": 1647
 }, {
 	"time": "2022-12-26 21:06:14",
 	"latency_hours": 1,
 	"latency_minutes": 7,
-	"latency_seconds": 12
+	"latency_seconds": 12,
+	"latency_total_minutes": 427
 }, {
 	"time": "2022-12-26 21:04:13",
 	"latency_hours": 1,
 	"latency_minutes": 15,
-	"latency_seconds": 6
+	"latency_seconds": 6,
+	"latency_total_minutes": 915
 }, {
 	"time": "2022-12-26 21:04:40",
 	"latency_hours": 1,
 	"latency_minutes": 20,
-	"latency_seconds": 8
+	"latency_seconds": 8,
+	"latency_total_minutes": 1220
 }, {
 	"time": "2022-12-26 21:05:25",
 	"latency_hours": 1,
 	"latency_minutes": 25,
-	"latency_seconds": 5
+	"latency_seconds": 5,
+	"latency_total_minutes": 1525
 }, {
 	"time": "2022-12-26 21:05:43",
 	"latency_hours": 1,
 	"latency_minutes": 31,
-	"latency_seconds": 32
+	"latency_seconds": 32,
+	"latency_total_minutes": 1891
 }, {
 	"time": "2022-12-26 21:06:25",
 	"latency_hours": 1,
 	"latency_minutes": 35,
-	"latency_seconds": 27
+	"latency_seconds": 27,
+	"latency_total_minutes": 2135
 }, {
 	"time": "2022-12-26 21:06:45",
 	"latency_hours": 1,
 	"latency_minutes": 41,
-	"latency_seconds": 10
+	"latency_seconds": 10,
+	"latency_total_minutes": 2501
 }, {
 	"time": "2022-12-26 21:07:15",
 	"latency_hours": 1,
 	"latency_minutes": 46,
-	"latency_seconds": 1
+	"latency_seconds": 1,
+	"latency_total_minutes": 2806
 }, {
 	"time": "2022-12-26 21:13:33",
 	"latency_hours": 1,
 	"latency_minutes": 45,
-	"latency_seconds": 25
+	"latency_seconds": 25,
+	"latency_total_minutes": 2745
 }, {
 	"time": "2022-12-26 21:21:40",
 	"latency_hours": 0,
 	"latency_minutes": 17,
-	"latency_seconds": 1
+	"latency_seconds": 1,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 21:57:07",
 	"latency_hours": 0,
 	"latency_minutes": 47,
-	"latency_seconds": 13
+	"latency_seconds": 13,
+	"latency_total_minutes": 2867
 }, {
 	"time": "2022-12-26 21:56:36",
 	"latency_hours": 0,
 	"latency_minutes": 40,
-	"latency_seconds": 35
+	"latency_seconds": 35,
+	"latency_total_minutes": 2440
 }, {
 	"time": "2022-12-26 21:57:17",
 	"latency_hours": 0,
 	"latency_minutes": 36,
-	"latency_seconds": 26
+	"latency_seconds": 26,
+	"latency_total_minutes": 2196
 }, {
 	"time": "2022-12-26 21:57:47",
 	"latency_hours": 0,
 	"latency_minutes": 30,
-	"latency_seconds": 23
+	"latency_seconds": 23,
+	"latency_total_minutes": 1830
 }, {
 	"time": "2022-12-26 22:00:36",
 	"latency_hours": 1,
 	"latency_minutes": 33,
-	"latency_seconds": 31
+	"latency_seconds": 31,
+	"latency_total_minutes": 2013
 }, {
 	"time": "2022-12-26 22:01:52",
 	"latency_hours": 1,
 	"latency_minutes": 37,
-	"latency_seconds": 6
+	"latency_seconds": 6,
+	"latency_total_minutes": 2257
 }, {
 	"time": "2022-12-26 22:02:16",
 	"latency_hours": 1,
 	"latency_minutes": 42,
-	"latency_seconds": 12
+	"latency_seconds": 12,
+	"latency_total_minutes": 2562
 }, {
 	"time": "2022-12-26 22:16:46",
 	"latency_hours": 1,
 	"latency_minutes": 34,
-	"latency_seconds": 35
+	"latency_seconds": 35,
+	"latency_total_minutes": 2074
 }, {
 	"time": "2022-12-26 22:47:31",
 	"latency_hours": 1,
 	"latency_minutes": 8,
-	"latency_seconds": 21
+	"latency_seconds": 21,
+	"latency_total_minutes": 488
 }, {
 	"time": "2022-12-26 22:47:20",
 	"latency_hours": 0,
 	"latency_minutes": 46,
-	"latency_seconds": 13
+	"latency_seconds": 13,
+	"latency_total_minutes": 2806
 }, {
 	"time": "2022-12-26 22:46:15",
 	"latency_hours": 0,
 	"latency_minutes": 39,
-	"latency_seconds": 1
+	"latency_seconds": 1,
+	"latency_total_minutes": 2379
 }, {
 	"time": "2022-12-26 22:46:53",
 	"latency_hours": 0,
 	"latency_minutes": 34,
-	"latency_seconds": 3
+	"latency_seconds": 3,
+	"latency_total_minutes": 2074
 }, {
 	"time": "2022-12-26 22:47:11",
 	"latency_hours": 0,
 	"latency_minutes": 29,
-	"latency_seconds": 26
+	"latency_seconds": 26,
+	"latency_total_minutes": 1769
 }, {
 	"time": "2022-12-26 22:47:44",
 	"latency_hours": 0,
 	"latency_minutes": 23,
-	"latency_seconds": 26
+	"latency_seconds": 26,
+	"latency_total_minutes": 1403
 }, {
 	"time": "2022-12-26 22:48:02",
 	"latency_hours": 0,
 	"latency_minutes": 19,
-	"latency_seconds": 57
+	"latency_seconds": 57,
+	"latency_total_minutes": 1159
 }, {
 	"time": "2022-12-26 22:48:37",
 	"latency_hours": 0,
 	"latency_minutes": 13,
-	"latency_seconds": 3
+	"latency_seconds": 3,
+	"latency_total_minutes": 793
 }, {
 	"time": "2022-12-26 22:57:12",
 	"latency_hours": 0,
 	"latency_minutes": 16,
-	"latency_seconds": 10
+	"latency_seconds": 10,
+	"latency_total_minutes": 976
 }, {
 	"time": "2022-12-26 22:55:30",
 	"latency_hours": 0,
 	"latency_minutes": 8,
-	"latency_seconds": 27
+	"latency_seconds": 27,
+	"latency_total_minutes": 488
 }, {
 	"time": "2022-12-26 23:38:34",
 	"latency_hours": 1,
 	"latency_minutes": 14,
-	"latency_seconds": 12
+	"latency_seconds": 12,
+	"latency_total_minutes": 854
 }, {
 	"time": "2022-12-26 23:37:38",
 	"latency_hours": 1,
 	"latency_minutes": 21,
-	"latency_seconds": 11
+	"latency_seconds": 11,
+	"latency_total_minutes": 1281
 }, {
 	"time": "2022-12-26 23:38:34",
 	"latency_hours": 0,
 	"latency_minutes": 34,
-	"latency_seconds": 26
+	"latency_seconds": 26,
+	"latency_total_minutes": 2074
 }, {
 	"time": "2022-12-26 23:39:19",
 	"latency_hours": 0,
 	"latency_minutes": 30,
-	"latency_seconds": 31
+	"latency_seconds": 31,
+	"latency_total_minutes": 1830
 }, {
 	"time": "2022-12-26 23:42:37",
 	"latency_hours": 0,
 	"latency_minutes": 27,
-	"latency_seconds": 6
+	"latency_seconds": 6,
+	"latency_total_minutes": 1647
 }, {
 	"time": "2022-12-26 23:43:13",
 	"latency_hours": 0,
 	"latency_minutes": 22,
-	"latency_seconds": 1
+	"latency_seconds": 1,
+	"latency_total_minutes": 1342
 }, {
 	"time": "2022-12-26 23:43:56",
 	"latency_hours": 0,
 	"latency_minutes": 17,
-	"latency_seconds": 3
+	"latency_seconds": 3,
+	"latency_total_minutes": 1037
 }, {
 	"time": "2022-12-26 23:57:53",
 	"latency_hours": 0,
 	"latency_minutes": 25,
-	"latency_seconds": 18
+	"latency_seconds": 18,
+	"latency_total_minutes": 1525
 }, {
 	"time": "2022-12-26 00:28:13",
 	"latency_hours": 23,
 	"latency_minutes": 10,
-	"latency_seconds": 3
+	"latency_seconds": 3,
+	"latency_total_minutes": 610
 }, {
 	"time": "2022-12-26 00:28:19",
 	"latency_hours": 23,
 	"latency_minutes": 15,
-	"latency_seconds": 38
+	"latency_seconds": 38,
+	"latency_total_minutes": 915
 }, {
 	"time": "2022-12-26 00:27:02",
 	"latency_hours": 23,
 	"latency_minutes": 22,
-	"latency_seconds": 36
+	"latency_seconds": 36,
+	"latency_total_minutes": 1342
 }, {
 	"time": "2022-12-26 00:27:43",
 	"latency_hours": 23,
 	"latency_minutes": 28,
-	"latency_seconds": 22
+	"latency_seconds": 22,
+	"latency_total_minutes": 1708
 }, {
 	"time": "2022-12-26 00:27:55",
 	"latency_hours": 0,
 	"latency_minutes": 26,
-	"latency_seconds": 52
+	"latency_seconds": 52,
+	"latency_total_minutes": 1586
 }]
